@@ -24,7 +24,8 @@ Estas são algumas das principais tecnologias que eu estudo, utilizo ou trabalho
 
 **Linguagens de Programação**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /><br>
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|
+|--|
 
 **Bibliotecas e Estruturas**
 
