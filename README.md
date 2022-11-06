@@ -1,5 +1,4 @@
 <h1> Olá, meu nome é Carlos Rocha</h1>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <h3> Facinado pelo mundo da tecnologia, em especial pela análise de dados para business. Sou formado em Ciências Contábeis, atualmente estou migrando de carreira para Data Science e sigo me desenvolvendo diariamente para alcançar meus objetivos profissionais e pessoais.</h3>
 
