@@ -4,7 +4,7 @@
 
 - 📍 Sou natural do município de Acaraú-CE, localizado no interior da capital Fortaleza-CE, sou contador e estudante apaixonado pela área tech (Data Science)
 - 🏢 Atualmente trabalho como analista de implantação no Grupo Boticário e Casa Magalhães
-- 📚 Estou desenvolvendo meu aprendizado em Bancos de Dados (SQLServer,MySQL), Python para análise de dados, Power BI, Tableau
+- 📚 Estou desenvolvendo meu aprendizado em Bancos de Dados SQL Server, My SQL, Python para análise de dados, Power BI, Tableau
 - 👯 No momento atual estou colaborando com alguns projetos da empresa onde faço parte
 - 📫 Entre em contato via e-mail: carlosfilho.contato@gmail.com
 - 😄 Ele / dele
