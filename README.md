@@ -11,10 +11,6 @@
 
 ### Vamos nos conectar? 
 
-[<img align="left"  width="22px" src="https://www.aokisistemas.com.br/wp-content/uploads/2020/01/logo-linkedin-square.jpg" />](https://www.linkedin.com/in/carlosrochadataanalystic/)
-[<img align="left"  width="22px" src="https://c8.alamy.com/comp/2CAHY32/vector-emblem-of-stackoverflow-a-popular-question-and-answer-site-about-programming-2CAHY32.jpg" />](https://pt.stackoverflow.com/users/294912/carlos-rocha)
-[<img align="left"  width="50px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_carlosfilho_/)
-
 <div> 
 <a href="https://www.linkedin.com/in/carlosrochadataanalystic/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href = "mailto:carlosfilho.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
